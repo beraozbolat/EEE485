@@ -1,2 +1,2 @@
 # EEE485
-EEE485 2023-2024 Spring Project
+EEE 485 Statistical Learning and Data Analytics Spring 2023-2024 Project
